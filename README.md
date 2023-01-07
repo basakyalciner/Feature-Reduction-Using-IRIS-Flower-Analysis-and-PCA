@@ -16,3 +16,6 @@
 📌 Used in data and photo compression.
 
 📌 In the face recognition process, this process is applied first and the distinctive features of the human face are obtained.
+
+![image](https://user-images.githubusercontent.com/56589435/211156230-c9722fb3-af86-483b-9292-d3ade3f99542.png)
+
